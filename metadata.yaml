@@ -1,0 +1,28 @@
+_repo: A-Mind-That-Found-Itself--An-Autobiography_11962
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beers, Clifford Whittingham
+    birthdate: 1876
+    deathdate: 1943
+    gutenberg_agent_id: '4150'
+    url: http://www.gutenberg.org/2009/agents/4150
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Beers, Clifford Whittingham, 1876-1943'
+- !lcc 'CT'
+- !lcsh 'Mentally ill -- United States -- Biography'
+- !lcsh 'Psychiatric hospital care -- United States -- History'
+- !lcsh 'Autobiographies'
+- GITenberg
+title: 'A Mind That Found Itself: An Autobiography'
+url: http://www.gutenberg.org/ebooks/11962
